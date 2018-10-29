@@ -1,3 +1,85 @@
 Resources on bad actors in human social constructions
+=====================================================
+
+== Forewords
+
+We call them bad people, manipulative, sociopath, little chief, abusive husband, psychopath, narcissic pervert. They abuse individual or whole social construction for their egoistic self-being. We are just resources for them. They use isolation, harrasment, and any hidden exploitative behavior that can help them. 
+
+*I really hope you never croosed the way of such a being.* 
+
+That is not my case, even if I was lucky enought to never seems to be to good a prey for them. I saw the ever lasting ravage they cause on coworkers, on friends, on familly. On social organization. 
+
+The pressant need to help when you are the weak spectator of such a situation is deflected by the hard reallity of the effectiveness of such bad actors to achieve their goals. 
+
+Moreover, as a Free Softare developper and citizen of the world who really cares for our common goods (digital and phisical), I'm quite often exposed to the question: how do we manage bad actors who threaten our social construction, be it our pet FLOSS project gaining some traction or the next big revolutionnary politic movment for a better world. 
+
+So I read a lot on them. From hard to get medical reports (I'm no doctor, if you were wondering) to dumb drunk-level note on them. Some of these texts helped a lot, so I wanted to share them and make people more aware of how bad actors work. 
+
+If you wonder, yes the election of Trump, a charicature of sociopathic behavior was a trigger. But I'm slow...
 
 
+== Sociopath user manual: bookmarks
+
+This place is essentially a bookmard for articles and other freely available resources on parasitic behavior in social construction. It's tainted by FLOSS/geek culture because of my personnal experience, but I would welcome any other feedbacks and contributions. 
+
+There's a whole literature about how human community evolve and need to preserve themself from abusive actors (who will naturally search power). 
+
+=== The psychopath code, Peter Hintjens
+
+http://hintjens.com/blog:_psychopaths
+
+That freely available is a real "how to deal with sociopaths". If you are under the thumb of a sociopath, or if you believe someone you know can be, please read that book. It can literaly save the life of people. In fact, you should read it just so that you are informed about the world we live in, and so that you will be able to react adequatly when the situation happens. 
+
+The book is a gold mine of information and tactics against sociopath. During his like, his author was a prominent free software developer and activist. Peter Hintjens was part of the building of very big and vibrant open source communities. He encoutourned numerous bad actors and he decided to try to help other people avoid the suffering they caused to him. 
+
+To be really fair, that book was an eye opener for me, putting works and rationnal on behavior I saw in the past and just didn't make any sense to me. Peter Hintjens will to share and document bad actors seems to be the correct thing to do, and I'm trying here to poursuie that goal. 
+
+The book is rather short, but even there, some parts can be read more of less independently: 
+
+- 
+
+
+=== Other writtings by Peter Hintjens
+
+
+I can advise to read almost anything written by Peter Hinjens, as is experience with FLOSS community is easely transposable. I have a sweet heart for "The psychopath code" (freely readable here: https://legacy.gitbook.com/book/hintjens/psychopathcode/details 6), but " Social Architecture" (https://legacy.gitbook.com/book/hintjens/social-architecture/details 2) is the most relevant one. And almost a dozen blog post and memories relevant to ZeroMQ community, and of course the C4.1 process (http://hintjens.com/blog:93 1).
+
+
+=== Too Late for the Pebbles to Vote, Meredith L. Patterson
+
+https://status451.com/2016/08/09/too-late-for-the-pebbles-to-vote-part-1/
+https://status451.com/2016/08/10/too-late-for-the-pebbles-to-vote-part-2/
+https://status451.com/2016/08/11/too-late-for-the-pebbles-to-vote-part-3/
+
+----
+There's a pattern most observers of human interaction have noticed, common enough to have earned its own aphorism: "nice guys finish last." Or, refactored, "bad actors are unusually good at winning." The phenomenon shows up in business, in politics, in war, in activism, in religion, in parenting, in nearly every collaborative form of human undertaking. If some cooperative effort generates a valuable resource, tangible or intangible, some people will try to subvert the effort in order to divert more of that resource to themselves. Money, admiration, votes, information, regulatory capacity, credibility, influence, authority: all of these and more are vulnerable to capture.
+----
+
+
+Part 2 explores the scaling problem of social communities: 
+
+----
+Too Late for the Pebbles to Vote, Part 2
+Previously, we discussed how sociopaths embed themselves into formerly healthy systems. Now let's talk about what…status451.com
+----
+
+
+And part 3 tries to find way to avoid these pitfall: 
+
+
+It's an intense set of article that cover most of the topic. It as a lot of cross-check with Peter Hintjens writting, which is both reassuring and depressing. 
+
+
+=== Geeks, MOPs, and sociopaths in subculture evolution, David Chapman
+
+https://meaningness.com/metablog/geeks-mops-sociopaths
+
+This one is quite accessible and much shorter even if it includes less shaded analysis of the subject ("well, of course" - yes right). 
+
+
+== License and contribution
+
+That text is made to be shared and enhanced. My hope is that if can help
+people. So it is under Creative Commons By NC Share alike. Please share it!
+
+And if you want to add information, please just comment or open pull request on https://github.com/fanf/sociopaths
